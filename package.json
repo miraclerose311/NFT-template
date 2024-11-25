@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "@shardlabs/starknet-hardhat-plugin": "^0.6.6",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.4.5"
   }
 }
